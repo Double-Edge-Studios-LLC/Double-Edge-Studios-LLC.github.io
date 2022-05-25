@@ -1,6 +1,6 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
-# Abilities not found here will be enabled by default
+# Abilities not found here will be enabled by default in tools and disabled on live
 custom_skywrath_mage_mystic_flare
 custom_luna_lucent_beam
 custom_omniknight_repel

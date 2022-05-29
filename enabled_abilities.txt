@@ -96,7 +96,7 @@ custom_drow_ranger_multishot
 custom_windrunner_windrun
 wisp_overcharge
 custom_monkey_king_jingu_mastery
-centaur_stampede
+!centaur_stampede
 oracle_false_promise
 !puck_phase_shift
 custom_axe_culling_blade
@@ -105,7 +105,7 @@ custom_pugna_life_drain
 !custom_snapfire_mortimer_kisses
 custom_snapfire_firesnap_cookie
 clinkz_searing_arrows
-custom_abyssal_underlord_atrophy_aura
+!custom_abyssal_underlord_atrophy_aura
 custom_undying_decay
 custom_lion_finger_of_death
 !custom_void_spirit_dissimilate

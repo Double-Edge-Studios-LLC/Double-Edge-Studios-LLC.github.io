@@ -160,3 +160,7 @@ gyrocopter_flak_cannon
 custom_visage_grave_chill
 custom_hoodwink_sharpshooter
 custom_beastmaster_inner_beast
+centaur_double_edge
+!custom_lycan_feral_impulse
+custom_storm_spirit_overload
+

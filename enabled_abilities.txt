@@ -102,7 +102,7 @@ oracle_false_promise
 custom_axe_culling_blade
 custom_chaos_knight_chaos_strike
 custom_pugna_life_drain
-!custom_snapfire_mortimer_kisses
+custom_snapfire_mortimer_kisses
 custom_snapfire_firesnap_cookie
 clinkz_searing_arrows
 !custom_abyssal_underlord_atrophy_aura

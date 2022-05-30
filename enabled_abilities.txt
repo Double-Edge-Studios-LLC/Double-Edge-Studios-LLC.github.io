@@ -92,7 +92,7 @@ tidehunter_anchor_smash
 kunkka_tidebringer
 custom_windrunner_focusfire
 beastmaster_wild_axes
-!custom_drow_ranger_multishot
+custom_drow_ranger_multishot
 custom_windrunner_windrun
 wisp_overcharge
 custom_monkey_king_jingu_mastery

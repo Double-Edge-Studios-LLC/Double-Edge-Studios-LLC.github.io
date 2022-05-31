@@ -163,4 +163,4 @@ custom_beastmaster_inner_beast
 centaur_double_edge
 !custom_lycan_feral_impulse
 custom_storm_spirit_overload
-
+!custom_shadow_demon_disruption

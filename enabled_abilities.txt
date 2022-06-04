@@ -33,7 +33,7 @@ custom_phantom_lancer_spirit_lance
 vengefulspirit_wave_of_terror
 dragon_knight_elder_dragon_form
 custom_ember_spirit_flame_guard
-!custom_warlock_chaotic_offering
+custom_warlock_chaotic_offering
 ember_spirit_sleight_of_fist
 custom_lina_dragon_slave
 custom_lina_fiery_soul
@@ -111,7 +111,7 @@ custom_lion_finger_of_death
 !custom_void_spirit_dissimilate
 antimage_mana_break
 slardar_amplify_damage
-!kunkka_ghostship
+kunkka_ghostship
 custom_riki_tricks_of_the_trade
 custom_spirit_breaker_charge_of_darkness
 !custom_tiny_toss
@@ -143,7 +143,7 @@ shredder_reactive_armor
 ursa_overpower
 keeper_of_the_light_chakra_magic
 custom_dragon_knight_dragon_blood
-!enchantress_impetus
+enchantress_impetus
 custom_juggernaut_blade_fury
 phantom_assassin_phantom_strike
 primal_beast_uproar
@@ -164,3 +164,4 @@ centaur_double_edge
 custom_lycan_feral_impulse
 custom_storm_spirit_overload
 custom_shadow_demon_disruption
+vengefulspirit_nether_swap

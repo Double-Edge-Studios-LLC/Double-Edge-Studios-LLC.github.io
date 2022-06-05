@@ -33,7 +33,7 @@ custom_phantom_lancer_spirit_lance
 vengefulspirit_wave_of_terror
 dragon_knight_elder_dragon_form
 custom_ember_spirit_flame_guard
-!custom_warlock_chaotic_offering
+custom_warlock_chaotic_offering
 ember_spirit_sleight_of_fist
 custom_lina_dragon_slave
 custom_lina_fiery_soul

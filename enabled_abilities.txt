@@ -39,7 +39,7 @@ custom_lina_dragon_slave
 custom_lina_fiery_soul
 phoenix_icarus_dive
 doom_bringer_infernal_blade
-lich_chain_frost
+custom_lich_chain_frost
 custom_tusk_walrus_punch
 tusk_tag_team
 custom_winter_wyvern_cold_embrace

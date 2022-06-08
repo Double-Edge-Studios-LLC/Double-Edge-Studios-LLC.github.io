@@ -44,7 +44,7 @@ custom_tusk_walrus_punch
 tusk_tag_team
 custom_winter_wyvern_cold_embrace
 lich_frost_shield
-!crystal_maiden_frostbite
+crystal_maiden_frostbite
 crystal_maiden_brilliance_aura
 winter_wyvern_arctic_burn
 !custom_tusk_ice_shards

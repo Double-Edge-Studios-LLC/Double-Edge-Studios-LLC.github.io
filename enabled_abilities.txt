@@ -13,7 +13,7 @@ custom_mirana_arrow
 custom_phantom_assassin_coup_de_grace
 custom_axe_counter_helix
 custom_grimstroke_ink_swell
-life_stealer_rage
+custom_life_stealer_rage
 custom_pudge_meat_hook
 custom_skeleton_king_vampiric_aura
 medusa_stone_gaze

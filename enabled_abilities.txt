@@ -164,3 +164,5 @@ custom_lycan_feral_impulse
 custom_storm_spirit_overload
 custom_shadow_demon_disruption
 vengefulspirit_nether_swap
+!custom_snapfire_lil_shredder
+!custom_enchantress_natures_attendants

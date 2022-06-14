@@ -166,3 +166,4 @@ custom_shadow_demon_disruption
 vengefulspirit_nether_swap
 !custom_snapfire_lil_shredder
 !custom_enchantress_natures_attendants
+undying_flesh_golem

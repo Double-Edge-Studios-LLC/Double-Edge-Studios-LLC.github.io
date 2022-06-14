@@ -23,7 +23,7 @@ custom_earthshaker_fissure
 custom_leshrac_split_earth
 custom_magnataur_empower
 sandking_burrowstrike
-!custom_ursa_earthshock
+custom_ursa_earthshock
 abaddon_borrowed_time
 custom_necrolyte_reapers_scythe
 custom_abaddon_death_coil
@@ -71,7 +71,7 @@ razor_static_link
 custom_zuus_static_field
 zuus_lightning_bolt
 custom_zuus_arc_lightning
-!razor_plasma_field
+razor_plasma_field
 custom_razor_eye_of_the_storm
 custom_faceless_void_chronosphere
 void_spirit_astral_step
@@ -122,9 +122,9 @@ ursa_fury_swipes
 !custom_magnataur_shockwave
 custom_bristleback_quill_spray
 custom_abaddon_aphotic_shield
-!rubick_fade_bolt
+rubick_fade_bolt
 huskar_berserkers_blood
-!custom_lycan_summon_wolves
+custom_lycan_summon_wolves
 troll_warlord_fervor
 alchemist_chemical_rage
 viper_poison_attack

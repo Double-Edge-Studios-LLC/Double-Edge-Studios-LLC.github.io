@@ -167,3 +167,5 @@ vengefulspirit_nether_swap
 !custom_snapfire_lil_shredder
 !custom_enchantress_natures_attendants
 undying_flesh_golem
+!faceless_void_time_lock
+!broodmother_insatiable_hunger

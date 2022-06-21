@@ -23,7 +23,7 @@ custom_earthshaker_fissure
 custom_leshrac_split_earth
 custom_magnataur_empower
 sandking_burrowstrike
-custom_ursa_earthshock
+!custom_ursa_earthshock
 abaddon_borrowed_time
 custom_necrolyte_reapers_scythe
 custom_abaddon_death_coil
@@ -155,7 +155,7 @@ custom_shadow_demon_demonic_purge
 gyrocopter_flak_cannon
 custom_abaddon_curse_of_avernus
 !mars_gods_rebuke
-marci_grapple
+!marci_grapple
 custom_visage_grave_chill
 custom_hoodwink_sharpshooter
 custom_beastmaster_inner_beast
@@ -167,5 +167,5 @@ vengefulspirit_nether_swap
 !custom_snapfire_lil_shredder
 !custom_enchantress_natures_attendants
 undying_flesh_golem
-!faceless_void_time_lock
-!broodmother_insatiable_hunger
+faceless_void_time_lock
+broodmother_insatiable_hunger

@@ -122,7 +122,7 @@ ursa_fury_swipes
 !custom_magnataur_shockwave
 custom_bristleback_quill_spray
 custom_abaddon_aphotic_shield
-rubick_fade_bolt
+!rubick_fade_bolt
 huskar_berserkers_blood
 custom_lycan_summon_wolves
 troll_warlord_fervor
@@ -169,3 +169,5 @@ vengefulspirit_nether_swap
 undying_flesh_golem
 faceless_void_time_lock
 broodmother_insatiable_hunger
+enigma_black_hole
+custom_mars_spear_of_mars

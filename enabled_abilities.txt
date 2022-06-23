@@ -169,5 +169,5 @@ vengefulspirit_nether_swap
 undying_flesh_golem
 faceless_void_time_lock
 broodmother_insatiable_hunger
-enigma_black_hole
-custom_mars_spear_of_mars
+!enigma_black_hole
+!custom_mars_spear_of_mars

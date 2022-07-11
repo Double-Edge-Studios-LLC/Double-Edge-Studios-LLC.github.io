@@ -176,3 +176,4 @@ broodmother_insatiable_hunger
 !legion_commander_press_the_attack
 !legion_commander_moment_of_courage
 !tusk_snowball
+!custom_earthshaker_enchant_totem

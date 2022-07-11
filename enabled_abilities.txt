@@ -172,7 +172,7 @@ broodmother_insatiable_hunger
 enigma_black_hole
 !custom_mars_spear_of_mars
 !void_spirit_resonant_pulse
-!monkey_king_boundless_strike
+monkey_king_boundless_strike
 !legion_commander_press_the_attack
 !legion_commander_moment_of_courage
 !tusk_snowball

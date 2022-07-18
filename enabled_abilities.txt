@@ -177,3 +177,4 @@ monkey_king_boundless_strike
 !legion_commander_moment_of_courage
 !tusk_snowball
 !custom_earthshaker_enchant_totem
+!custom_silencer_glaives_of_wisdom

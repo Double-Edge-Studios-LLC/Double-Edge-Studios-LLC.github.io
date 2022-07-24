@@ -180,3 +180,5 @@ monkey_king_boundless_strike
 !custom_silencer_glaives_of_wisdom
 !batrider_sticky_napalm
 !marci_guardian
+!custom_sandking_epicenter
+!custom_visage_summon_familiars

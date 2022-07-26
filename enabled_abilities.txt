@@ -182,3 +182,4 @@ monkey_king_boundless_strike
 !marci_guardian
 !custom_sandking_epicenter
 !custom_visage_summon_familiars
+!custom_chaos_knight_reality_rift

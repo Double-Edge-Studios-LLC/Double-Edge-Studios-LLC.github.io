@@ -183,3 +183,4 @@ monkey_king_boundless_strike
 !custom_sandking_epicenter
 !custom_visage_summon_familiars
 !custom_chaos_knight_reality_rift
+!custom_chaos_knight_phantasm

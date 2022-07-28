@@ -48,7 +48,7 @@ crystal_maiden_brilliance_aura
 winter_wyvern_arctic_burn
 !custom_tusk_ice_shards
 custom_crystal_maiden_freezing_field
-custom_drow_ranger_frost_arrows
+!custom_drow_ranger_frost_arrows
 lycan_shapeshift
 chen_hand_of_god
 custom_beastmaster_call_of_the_wild
@@ -76,7 +76,7 @@ custom_razor_eye_of_the_storm
 custom_faceless_void_chronosphere
 void_spirit_astral_step
 dark_seer_vacuum
-custom_dark_willow_shadow_realm
+!custom_dark_willow_shadow_realm
 luna_lunar_blessing
 custom_queenofpain_blink
 faceless_void_time_walk
@@ -177,8 +177,8 @@ monkey_king_boundless_strike
 !legion_commander_moment_of_courage
 !tusk_snowball
 !custom_earthshaker_enchant_totem
-!custom_silencer_glaives_of_wisdom
-!batrider_sticky_napalm
+custom_silencer_glaives_of_wisdom
+batrider_sticky_napalm
 !marci_guardian
 !custom_sandking_epicenter
 !custom_visage_summon_familiars

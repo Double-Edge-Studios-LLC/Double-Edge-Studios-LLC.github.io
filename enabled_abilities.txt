@@ -162,7 +162,7 @@ custom_beastmaster_inner_beast
 centaur_double_edge
 custom_lycan_feral_impulse
 custom_storm_spirit_overload
-custom_shadow_demon_disruption
+!custom_shadow_demon_disruption
 !vengefulspirit_nether_swap
 !custom_snapfire_lil_shredder
 !custom_enchantress_natures_attendants
@@ -182,7 +182,7 @@ batrider_sticky_napalm
 !marci_guardian
 !custom_sandking_epicenter
 !custom_visage_summon_familiars
-!custom_chaos_knight_reality_rift
+custom_chaos_knight_reality_rift
 !custom_chaos_knight_phantasm
 !custom_witch_doctor_death_ward
 !custom_elder_titan_ancestral_spirit

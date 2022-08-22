@@ -149,14 +149,14 @@ primal_beast_uproar
 primal_beast_trample
 ogre_magi_bloodlust
 leshrac_pulse_nova
-!pudge_rot
+pudge_rot
 custom_shadow_demon_demonic_purge
 !custom_shadow_demon_demonic_cleanse
 gyrocopter_flak_cannon
 custom_abaddon_curse_of_avernus
 !mars_gods_rebuke
 !marci_grapple
-custom_visage_grave_chill
+!custom_visage_grave_chill
 custom_hoodwink_sharpshooter
 custom_beastmaster_inner_beast
 centaur_double_edge

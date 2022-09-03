@@ -174,7 +174,7 @@ enigma_black_hole
 void_spirit_resonant_pulse
 monkey_king_boundless_strike
 !legion_commander_press_the_attack
-!legion_commander_moment_of_courage
+legion_commander_moment_of_courage
 !tusk_snowball
 !custom_earthshaker_enchant_totem
 custom_silencer_glaives_of_wisdom

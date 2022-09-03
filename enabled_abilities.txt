@@ -64,7 +64,7 @@ viper_nethertoxin
 viper_corrosive_skin
 !venomancer_venomous_gale
 custom_venomancer_plague_ward
-slark_shadow_dance
+!slark_shadow_dance
 custom_dawnbreaker_luminosity
 arc_warden_magnetic_field
 razor_static_link
@@ -182,7 +182,7 @@ batrider_sticky_napalm
 !marci_guardian
 !custom_sandking_epicenter
 !custom_visage_summon_familiars
-custom_chaos_knight_reality_rift
+!custom_chaos_knight_reality_rift
 !custom_chaos_knight_phantasm
 !custom_witch_doctor_death_ward
 !custom_elder_titan_ancestral_spirit

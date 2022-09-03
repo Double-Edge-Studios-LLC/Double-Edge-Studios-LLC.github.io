@@ -184,7 +184,7 @@ batrider_sticky_napalm
 !custom_visage_summon_familiars
 !custom_chaos_knight_reality_rift
 !custom_chaos_knight_phantasm
-!custom_witch_doctor_death_ward
+custom_witch_doctor_death_ward
 !custom_elder_titan_ancestral_spirit
 !clinkz_strafe
 !custom_luna_moon_glaive

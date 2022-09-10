@@ -122,7 +122,7 @@ ursa_fury_swipes
 !custom_magnataur_shockwave
 custom_bristleback_quill_spray
 custom_abaddon_aphotic_shield
-!rubick_fade_bolt
+rubick_fade_bolt
 huskar_berserkers_blood
 custom_lycan_summon_wolves
 troll_warlord_fervor
@@ -184,7 +184,7 @@ batrider_sticky_napalm
 !custom_visage_summon_familiars
 !custom_chaos_knight_reality_rift
 !custom_chaos_knight_phantasm
-custom_witch_doctor_death_ward
+!custom_witch_doctor_death_ward
 !custom_elder_titan_ancestral_spirit
 !clinkz_strafe
 !custom_luna_moon_glaive

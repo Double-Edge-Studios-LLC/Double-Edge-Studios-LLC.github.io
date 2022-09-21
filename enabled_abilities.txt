@@ -192,3 +192,5 @@ batrider_sticky_napalm
 !death_prophet_spirit_siphon
 !dawnbreaker_fire_wreath
 !marci_unleash
+!custom_grimstroke_soul_bind
+!custom_bane_fiends_grip

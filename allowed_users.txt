@@ -1,7 +1,7 @@
 # All lines starting with # will be ignored
 
 # Keril
-# 76561198046920629
+76561198046920629
 
 # SUNSfan
 76561197960956468

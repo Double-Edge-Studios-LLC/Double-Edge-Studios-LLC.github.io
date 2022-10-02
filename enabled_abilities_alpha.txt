@@ -33,7 +33,7 @@ custom_phantom_lancer_spirit_lance
 vengefulspirit_wave_of_terror
 dragon_knight_elder_dragon_form
 custom_ember_spirit_flame_guard
-!custom_warlock_chaotic_offering
+custom_warlock_chaotic_offering
 ember_spirit_sleight_of_fist
 custom_lina_dragon_slave
 custom_lina_fiery_soul
@@ -169,7 +169,7 @@ custom_storm_spirit_overload
 undying_flesh_golem
 faceless_void_time_lock
 broodmother_insatiable_hunger
-!enigma_black_hole
+enigma_black_hole
 !custom_mars_spear_of_mars
 void_spirit_resonant_pulse
 monkey_king_boundless_strike
@@ -185,7 +185,7 @@ batrider_sticky_napalm
 !custom_chaos_knight_reality_rift
 !custom_chaos_knight_phantasm
 !custom_witch_doctor_death_ward
-!custom_elder_titan_ancestral_spirit
+custom_elder_titan_ancestral_spirit
 !clinkz_strafe
 !custom_luna_moon_glaive
 !primal_beast_pulverize
@@ -194,3 +194,5 @@ batrider_sticky_napalm
 !marci_unleash
 !custom_grimstroke_soul_bind
 !custom_bane_fiends_grip
+custom_pudge_flesh_heap
+bloodseeker_bloodrage

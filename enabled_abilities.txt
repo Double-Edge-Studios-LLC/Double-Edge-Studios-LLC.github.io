@@ -62,7 +62,7 @@ obsidian_destroyer_equilibrium
 troll_warlord_fervor
 custom_lina_fiery_soul
 custom_snapfire_firesnap_cookie
-gyrocopter_flak_cannon
+!gyrocopter_flak_cannon
 lich_frost_shield
 ursa_fury_swipes
 custom_drow_ranger_wave_of_silence

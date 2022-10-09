@@ -165,6 +165,6 @@ custom_luna_moon_glaive
 primal_beast_pulverize
 marci_unleash
 custom_bane_fiends_grip
-custom_grimstroke_soul_bind
+!custom_grimstroke_soul_bind
 !gyrocopter_flak_cannon
 !tusk_snowball

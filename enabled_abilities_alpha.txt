@@ -170,3 +170,5 @@ vengefulspirit_command_aura
 !custom_grimstroke_soul_bind
 !gyrocopter_flak_cannon
 !marci_unleash
+custom_oracle_fortunes_end
+custom_ancient_apparition_ice_blast

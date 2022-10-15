@@ -172,3 +172,6 @@ vengefulspirit_command_aura
 !marci_unleash
 custom_oracle_fortunes_end
 custom_ancient_apparition_ice_blast
+custom_luna_lucent_beam
+custom_dragon_knight_dragon_blood
+monkey_king_boundless_strike

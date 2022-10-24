@@ -164,7 +164,7 @@ clinkz_strafe
 custom_luna_moon_glaive
 primal_beast_pulverize
 custom_bane_fiends_grip
-custom_tusk_snowball
+!custom_tusk_snowball
 custom_huskar_inner_fire
 vengefulspirit_command_aura
 !custom_grimstroke_soul_bind

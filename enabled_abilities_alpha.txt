@@ -175,3 +175,4 @@ custom_ancient_apparition_ice_blast
 custom_luna_lucent_beam
 custom_dragon_knight_dragon_blood
 monkey_king_boundless_strike
+custom_sandking_epicenter

@@ -166,7 +166,7 @@ primal_beast_pulverize
 custom_bane_fiends_grip
 !custom_tusk_snowball
 custom_huskar_inner_fire
-vengefulspirit_command_aura
+!vengefulspirit_command_aura
 !custom_grimstroke_soul_bind
 !gyrocopter_flak_cannon
 !marci_unleash

@@ -177,4 +177,3 @@ custom_dragon_knight_dragon_blood
 monkey_king_boundless_strike
 custom_sandking_epicenter
 crystal_maiden_frostbite
-legion_commander_duel

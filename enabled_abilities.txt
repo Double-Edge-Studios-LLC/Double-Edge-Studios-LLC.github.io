@@ -97,7 +97,7 @@ custom_zuus_static_field
 razor_static_link
 tusk_tag_team
 custom_sniper_take_aim
-kunkka_tidebringer
+!kunkka_tidebringer
 faceless_void_time_walk
 primal_beast_trample
 custom_riki_tricks_of_the_trade

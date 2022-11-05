@@ -171,9 +171,3 @@ custom_oracle_fortunes_end
 custom_ancient_apparition_ice_blast
 custom_sandking_epicenter
 crystal_maiden_frostbite
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security

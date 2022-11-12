@@ -169,3 +169,4 @@ vengefulspirit_wave_of_terror
 beastmaster_wild_axes
 custom_windrunner_windrun
 custom_legion_commander_duel
+abaddon_borrowed_time

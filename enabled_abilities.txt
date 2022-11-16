@@ -118,7 +118,7 @@ witch_doctor_paralyzing_cask
 phantom_assassin_phantom_strike
 custom_venomancer_plague_ward
 razor_plasma_field
-viper_poison_attack
+custom_viper_poison_attack
 legion_commander_press_the_attack
 leshrac_pulse_nova
 primal_beast_pulverize

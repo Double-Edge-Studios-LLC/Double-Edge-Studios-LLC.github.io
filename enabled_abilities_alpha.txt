@@ -105,7 +105,6 @@ custom_pudge_meat_hook
 custom_naga_siren_mirror_image
 custom_abaddon_death_coil
 legion_commander_moment_of_courage
-!custom_luna_moon_glaive
 custom_snapfire_mortimer_kisses
 custom_drow_ranger_multishot
 custom_skywrath_mage_mystic_flare
@@ -168,11 +167,12 @@ bristleback_warpath
 vengefulspirit_wave_of_terror
 beastmaster_wild_axes
 custom_windrunner_windrun
-!custom_legion_commander_duel
 abaddon_borrowed_time
-custom_skywrath_mage_arcane_bolt
 custom_slark_essence_shift
 custom_phoenix_sun_ray
 custom_sven_warcry
 custom_shredder_chakram
-custom_medusa_mana_shield
+!custom_medusa_mana_shield
+!custom_luna_moon_glaive
+!custom_skywrath_mage_arcane_bolt
+!custom_legion_commander_duel

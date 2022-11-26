@@ -172,10 +172,10 @@ custom_legion_commander_duel
 abaddon_borrowed_time
 !viper_nethertoxin
 !custom_skywrath_mage_arcane_bolt
-!custom_slark_essence_shift
-!custom_phoenix_sun_ray
-!custom_sven_warcry
-!custom_shredder_chakram
-!mars_arena_of_blood
-!techies_suicide
-!custom_medusa_mana_shield
+custom_slark_essence_shift
+custom_phoenix_sun_ray
+custom_sven_warcry
+custom_shredder_chakram
+mars_arena_of_blood
+techies_suicide
+custom_medusa_mana_shield

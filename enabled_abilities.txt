@@ -105,7 +105,7 @@ custom_pudge_meat_hook
 custom_naga_siren_mirror_image
 custom_abaddon_death_coil
 legion_commander_moment_of_courage
-custom_luna_moon_glaive
+!custom_luna_moon_glaive
 custom_snapfire_mortimer_kisses
 custom_drow_ranger_multishot
 custom_skywrath_mage_mystic_flare

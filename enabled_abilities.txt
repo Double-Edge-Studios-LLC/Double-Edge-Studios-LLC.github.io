@@ -54,7 +54,7 @@ hoodwink_acorn_shot
 custom_hoodwink_sharpshooter
 huskar_berserkers_blood
 custom_huskar_inner_fire
-custom_huskar_life_break
+!custom_huskar_life_break
 wisp_overcharge
 custom_juggernaut_blade_fury
 keeper_of_the_light_chakra_magic

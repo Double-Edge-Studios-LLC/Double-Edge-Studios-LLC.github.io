@@ -145,7 +145,7 @@ custom_shredder_chakram
 shredder_reactive_armor
 custom_tinker_laser
 tiny_grow
-treant_leech_seed
+custom_treant_leech_seed
 troll_warlord_battle_trance
 troll_warlord_fervor
 tusk_tag_team

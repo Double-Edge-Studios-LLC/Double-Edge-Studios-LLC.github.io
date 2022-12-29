@@ -173,3 +173,5 @@ custom_skeleton_king_vampiric_aura
 custom_zuus_arc_lightning
 zuus_lightning_bolt
 custom_zuus_static_field
+custom_ursa_earthshock
+dragon_knight_elder_dragon_form

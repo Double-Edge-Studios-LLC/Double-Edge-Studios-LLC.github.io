@@ -125,7 +125,7 @@ custom_skywrath_mage_mystic_flare
 custom_slardar_amplify_damage
 custom_slardar_bash_of_the_deep
 custom_slark_essence_shift
-slark_dark_pact
+custom_slark_dark_pact
 slark_shadow_dance
 custom_snapfire_firesnap_cookie
 custom_snapfire_lil_shredder
@@ -173,3 +173,5 @@ custom_skeleton_king_vampiric_aura
 custom_zuus_arc_lightning
 zuus_lightning_bolt
 custom_zuus_static_field
+custom_ursa_earthshock
+dragon_knight_elder_dragon_form

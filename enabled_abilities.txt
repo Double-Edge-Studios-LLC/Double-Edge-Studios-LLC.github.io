@@ -57,7 +57,7 @@ custom_huskar_inner_fire
 custom_huskar_life_break
 wisp_overcharge
 custom_juggernaut_blade_fury
-keeper_of_the_light_chakra_magic
+!keeper_of_the_light_chakra_magic
 kunkka_ghostship
 kunkka_torrent
 legion_commander_moment_of_courage

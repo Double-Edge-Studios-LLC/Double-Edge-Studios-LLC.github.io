@@ -178,7 +178,6 @@ dragon_knight_elder_dragon_form
 rattletrap_battery_assault
 dawnbreaker_fire_wreath
 custom_enchantress_natures_attendants
-custom_grimstroke_soul_bind
 jakiro_ice_path
 mars_gods_rebuke
 custom_skywrath_mage_arcane_bolt

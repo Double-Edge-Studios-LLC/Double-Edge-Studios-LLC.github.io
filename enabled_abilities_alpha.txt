@@ -179,7 +179,6 @@ rattletrap_battery_assault
 dawnbreaker_fire_wreath
 custom_enchantress_natures_attendants
 jakiro_ice_path
-mars_gods_rebuke
 custom_skywrath_mage_arcane_bolt
 custom_tusk_snowball
 custom_pangolier_rolling_thunder

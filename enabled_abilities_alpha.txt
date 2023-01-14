@@ -1,6 +1,7 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+custom_lone_druid_spirit_link
 custom_doom_bringer_doom
 custom_enchantress_natures_attendants
 custom_pangolier_rolling_thunder
@@ -9,7 +10,7 @@ custom_tusk_snowball
 dawnbreaker_fire_wreath
 jakiro_ice_path
 night_stalker_crippling_fear
-rattletrap_battery_assault
+custom_clockwerk_battery_assault
 abaddon_borrowed_time
 alchemist_chemical_rage
 antimage_mana_break

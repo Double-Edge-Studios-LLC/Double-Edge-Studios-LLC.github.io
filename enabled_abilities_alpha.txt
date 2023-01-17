@@ -1,6 +1,7 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+custom_dark_willow_cursed_crown
 custom_lone_druid_spirit_link
 custom_doom_bringer_doom
 custom_enchantress_natures_attendants

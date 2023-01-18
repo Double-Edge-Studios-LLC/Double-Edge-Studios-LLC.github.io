@@ -126,7 +126,7 @@ dark_seer_vacuum
 doom_bringer_infernal_blade
 dragon_knight_elder_dragon_form
 earth_spirit_rolling_boulder
-ember_spirit_sleight_of_fist
+!ember_spirit_sleight_of_fist
 enigma_black_hole
 faceless_void_time_lock
 faceless_void_time_walk

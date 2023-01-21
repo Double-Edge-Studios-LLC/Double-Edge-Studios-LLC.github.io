@@ -1,16 +1,16 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+custom_clockwerk_battery_assault
 custom_dark_willow_cursed_crown
-custom_lone_druid_spirit_link
 custom_doom_bringer_doom
+custom_lone_druid_spirit_link
 custom_pangolier_rolling_thunder
 custom_skywrath_mage_arcane_bolt
 custom_tusk_snowball
 dawnbreaker_fire_wreath
 jakiro_ice_path
 night_stalker_crippling_fear
-custom_clockwerk_battery_assault
 abaddon_borrowed_time
 alchemist_chemical_rage
 antimage_mana_break
@@ -125,7 +125,6 @@ dark_seer_vacuum
 doom_bringer_infernal_blade
 dragon_knight_elder_dragon_form
 earth_spirit_rolling_boulder
-!ember_spirit_sleight_of_fist
 enigma_black_hole
 faceless_void_time_lock
 faceless_void_time_walk
@@ -176,3 +175,7 @@ void_spirit_resonant_pulse
 wisp_overcharge
 witch_doctor_paralyzing_cask
 zuus_lightning_bolt
+elder_titan_earth_splitter
+custom_huskar_burning_spear
+custom_lion_mana_drain
+custom_sven_gods_strength

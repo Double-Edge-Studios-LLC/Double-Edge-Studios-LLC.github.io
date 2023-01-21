@@ -101,7 +101,7 @@ custom_snapfire_firesnap_cookie
 custom_snapfire_lil_shredder
 custom_snapfire_mortimer_kisses
 custom_sniper_take_aim
-custom_spectre_dispersion
+!custom_spectre_dispersion
 custom_spirit_breaker_charge_of_darkness
 custom_storm_spirit_overload
 custom_sven_warcry

@@ -1,6 +1,7 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+custom_troll_warlord_berserkers_rage
 custom_clockwerk_battery_assault
 custom_dark_willow_cursed_crown
 custom_doom_bringer_doom

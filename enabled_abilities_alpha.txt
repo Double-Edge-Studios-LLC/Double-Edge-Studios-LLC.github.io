@@ -1,21 +1,9 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
-custom_troll_warlord_berserkers_rage
-custom_clockwerk_battery_assault
-custom_dark_willow_cursed_crown
-custom_doom_bringer_doom
-custom_lone_druid_spirit_link
-custom_pangolier_rolling_thunder
-custom_skywrath_mage_arcane_bolt
-custom_tusk_snowball
-dawnbreaker_fire_wreath
-jakiro_ice_path
-night_stalker_crippling_fear
 abaddon_borrowed_time
 alchemist_chemical_rage
 antimage_mana_break
-!arc_warden_magnetic_field
 batrider_sticky_napalm
 beastmaster_wild_axes
 bloodseeker_bloodrage
@@ -29,7 +17,6 @@ crystal_maiden_brilliance_aura
 crystal_maiden_frostbite
 custom_abaddon_aphotic_shield
 custom_abaddon_curse_of_avernus
-!custom_abaddon_death_coil
 custom_alchemist_acid_spray
 custom_ancient_apparition_ice_blast
 custom_axe_counter_helix
@@ -51,7 +38,7 @@ custom_earthshaker_fissure
 custom_elder_titan_ancestral_spirit
 custom_ember_spirit_flame_guard
 custom_faceless_void_chronosphere
-!custom_furion_force_of_nature
+custom_furion_force_of_nature
 custom_grimstroke_ink_swell
 custom_hoodwink_sharpshooter
 custom_huskar_inner_fire
@@ -63,7 +50,6 @@ custom_lich_chain_frost
 custom_life_stealer_rage
 custom_lina_dragon_slave
 custom_lina_fiery_soul
-!custom_lion_finger_of_death
 custom_lone_druid_spirit_bear
 custom_luna_lucent_beam
 custom_lycan_summon_wolves
@@ -92,7 +78,6 @@ custom_shadow_demon_demonic_purge
 custom_shadow_shaman_voodoo
 custom_shredder_chakram
 custom_silencer_glaives_of_wisdom
-!custom_silencer_global_silence
 custom_skeleton_king_vampiric_aura
 custom_skywrath_mage_mystic_flare
 custom_slardar_bash_of_the_deep
@@ -102,13 +87,13 @@ custom_snapfire_firesnap_cookie
 custom_snapfire_lil_shredder
 custom_snapfire_mortimer_kisses
 custom_sniper_take_aim
-!custom_spectre_dispersion
+custom_spectre_dispersion
 custom_spirit_breaker_charge_of_darkness
 custom_storm_spirit_overload
 custom_sven_warcry
 custom_tidehunter_ravage
 custom_tinker_laser
-custom_leech_seed
+custom_treant_leech_seed
 custom_tusk_walrus_punch
 custom_undying_decay
 custom_ursa_earthshock
@@ -176,7 +161,18 @@ void_spirit_resonant_pulse
 wisp_overcharge
 witch_doctor_paralyzing_cask
 zuus_lightning_bolt
+custom_clockwerk_battery_assault
+custom_dark_willow_cursed_crown
+custom_doom_bringer_doom
+custom_lone_druid_spirit_link
+custom_pangolier_rolling_thunder
+custom_skywrath_mage_arcane_bolt
+custom_tusk_snowball
+dawnbreaker_fire_wreath
+jakiro_ice_path
+night_stalker_crippling_fear
 elder_titan_earth_splitter
 custom_huskar_burning_spear
-!custom_lion_mana_drain
 custom_sven_gods_strength
+custom_troll_warlord_berserkers_rage
+custom_chaos_knight_reality_rift

@@ -29,7 +29,7 @@ crystal_maiden_brilliance_aura
 crystal_maiden_frostbite
 custom_abaddon_aphotic_shield
 custom_abaddon_curse_of_avernus
-custom_abaddon_death_coil
+!custom_abaddon_death_coil
 custom_alchemist_acid_spray
 custom_ancient_apparition_ice_blast
 custom_axe_counter_helix
@@ -63,7 +63,7 @@ custom_lich_chain_frost
 custom_life_stealer_rage
 custom_lina_dragon_slave
 custom_lina_fiery_soul
-custom_lion_finger_of_death
+!custom_lion_finger_of_death
 custom_lone_druid_spirit_bear
 custom_luna_lucent_beam
 custom_lycan_summon_wolves
@@ -92,7 +92,7 @@ custom_shadow_demon_demonic_purge
 custom_shadow_shaman_voodoo
 custom_shredder_chakram
 custom_silencer_glaives_of_wisdom
-custom_silencer_global_silence
+!custom_silencer_global_silence
 custom_skeleton_king_vampiric_aura
 custom_skywrath_mage_mystic_flare
 custom_slardar_bash_of_the_deep

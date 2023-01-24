@@ -51,7 +51,7 @@ custom_earthshaker_fissure
 custom_elder_titan_ancestral_spirit
 custom_ember_spirit_flame_guard
 custom_faceless_void_chronosphere
-custom_furion_force_of_nature
+!custom_furion_force_of_nature
 custom_grimstroke_ink_swell
 custom_hoodwink_sharpshooter
 custom_huskar_inner_fire
@@ -108,7 +108,7 @@ custom_storm_spirit_overload
 custom_sven_warcry
 custom_tidehunter_ravage
 custom_tinker_laser
-custom_treant_leech_seed
+custom_leech_seed
 custom_tusk_walrus_punch
 custom_undying_decay
 custom_ursa_earthshock

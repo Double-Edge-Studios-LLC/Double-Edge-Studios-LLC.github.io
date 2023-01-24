@@ -178,5 +178,5 @@ witch_doctor_paralyzing_cask
 zuus_lightning_bolt
 elder_titan_earth_splitter
 custom_huskar_burning_spear
-custom_lion_mana_drain
+!custom_lion_mana_drain
 custom_sven_gods_strength

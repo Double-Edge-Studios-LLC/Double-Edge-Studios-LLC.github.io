@@ -155,7 +155,7 @@ tusk_tag_team
 undying_flesh_golem
 ursa_fury_swipes
 ursa_overpower
-vengefulspirit_wave_of_terror
+!vengefulspirit_wave_of_terror
 viper_corrosive_skin
 void_spirit_astral_step
 void_spirit_resonant_pulse

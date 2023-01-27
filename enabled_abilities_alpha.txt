@@ -1,6 +1,8 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+marci_companion_run
+pangolier_swashbuckle
 abaddon_borrowed_time
 alchemist_chemical_rage
 antimage_mana_break

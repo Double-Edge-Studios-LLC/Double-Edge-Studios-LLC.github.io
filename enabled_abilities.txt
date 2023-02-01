@@ -146,7 +146,7 @@ custom_lone_druid_spirit_bear
 custom_lycan_summon_wolves
 custom_phoenix_sun_ray
 tusk_tag_team
-custom_sniper_take_aim
+!custom_sniper_take_aim
 faceless_void_time_lock
 faceless_void_time_walk
 kunkka_torrent

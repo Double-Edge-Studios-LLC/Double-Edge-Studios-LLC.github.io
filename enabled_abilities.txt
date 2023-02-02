@@ -174,3 +174,5 @@ custom_pangolier_rolling_thunder
 custom_tusk_snowball
 dawnbreaker_fire_wreath
 pangolier_swashbuckle
+custom_lone_druid_spirit_link
+custom_sniper_take_aim

@@ -173,6 +173,6 @@ custom_sven_gods_strength
 jakiro_ice_path
 custom_pangolier_rolling_thunder
 custom_tusk_snowball
-custom_lone_druid_spirit_link
+!custom_lone_druid_spirit_link
 dawnbreaker_fire_wreath
 pangolier_swashbuckle

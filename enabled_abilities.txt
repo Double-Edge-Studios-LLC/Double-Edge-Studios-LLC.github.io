@@ -171,7 +171,7 @@ elder_titan_earth_splitter
 custom_sven_gods_strength
 jakiro_ice_path
 custom_pangolier_rolling_thunder
-custom_tusk_snowball
+!custom_tusk_snowball
 dawnbreaker_fire_wreath
 pangolier_swashbuckle
 custom_lone_druid_spirit_link

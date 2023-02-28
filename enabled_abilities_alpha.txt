@@ -173,6 +173,6 @@ jakiro_ice_path
 custom_pangolier_rolling_thunder
 custom_lone_druid_spirit_link
 dawnbreaker_fire_wreath
-pangolier_swashbuckle
 legion_commander_press_the_attack
 ember_spirit_sleight_of_fist
+custom_lion_finger_of_death

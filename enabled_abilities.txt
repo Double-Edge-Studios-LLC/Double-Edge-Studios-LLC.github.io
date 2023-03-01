@@ -146,6 +146,7 @@ custom_lone_druid_spirit_bear
 custom_lycan_summon_wolves
 custom_phoenix_sun_ray
 tusk_tag_team
+custom_sniper_take_aim
 faceless_void_time_lock
 faceless_void_time_walk
 kunkka_torrent
@@ -162,7 +163,6 @@ beastmaster_wild_axes
 custom_windrunner_windrun
 custom_skywrath_mage_arcane_bolt
 custom_clockwerk_battery_assault
-custom_troll_warlord_berserkers_rage
 custom_huskar_burning_spear
 night_stalker_crippling_fear
 custom_dark_willow_cursed_crown
@@ -171,8 +171,8 @@ elder_titan_earth_splitter
 custom_sven_gods_strength
 jakiro_ice_path
 custom_pangolier_rolling_thunder
-!custom_tusk_snowball
-dawnbreaker_fire_wreath
-pangolier_swashbuckle
 custom_lone_druid_spirit_link
-custom_sniper_take_aim
+dawnbreaker_fire_wreath
+legion_commander_press_the_attack
+ember_spirit_sleight_of_fist
+custom_lion_finger_of_death

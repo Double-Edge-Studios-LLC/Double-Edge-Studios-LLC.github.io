@@ -35,13 +35,11 @@ custom_faceless_void_chronosphere
 custom_winter_wyvern_cold_embrace
 viper_corrosive_skin
 custom_axe_counter_helix
-custom_phantom_assassin_coup_de_grace
 custom_axe_culling_blade
 custom_abaddon_curse_of_avernus
 custom_slark_dark_pact
 custom_necrolyte_death_pulse
 custom_witch_doctor_death_ward
-custom_undying_decay
 custom_shadow_demon_demonic_purge
 custom_spectre_dispersion
 centaur_double_edge
@@ -50,7 +48,6 @@ custom_dragon_knight_dragon_blood
 custom_legion_commander_duel
 custom_ursa_earthshock
 dragon_knight_elder_dragon_form
-custom_magnataur_empower
 custom_earthshaker_enchant_totem
 custom_sandking_epicenter
 custom_obsidian_destroyer_equilibrium
@@ -176,3 +173,6 @@ dawnbreaker_fire_wreath
 legion_commander_press_the_attack
 ember_spirit_sleight_of_fist
 custom_lion_finger_of_death
+terrorblade_sunder
+vengefulspirit_wave_of_terror
+mars_arena_of_blood

@@ -4,7 +4,6 @@
 zuus_lightning_bolt
 witch_doctor_paralyzing_cask
 wisp_overcharge
-void_spirit_resonant_pulse
 void_spirit_astral_step
 viper_corrosive_skin
 vengefulspirit_wave_of_terror
@@ -20,7 +19,6 @@ tidehunter_anchor_smash
 terrorblade_sunder
 templar_assassin_refraction
 techies_suicide
-slark_shadow_dance
 shredder_reactive_armor
 sandking_burrowstrike
 rubick_fade_bolt
@@ -36,7 +34,6 @@ oracle_false_promise
 omniknight_purification
 ogre_magi_bloodlust
 nyx_assassin_spiked_carapace
-night_stalker_crippling_fear
 medusa_stone_gaze
 marci_guardian
 lycan_shapeshift
@@ -49,7 +46,6 @@ legion_commander_moment_of_courage
 kunkka_torrent
 kunkka_ghostship
 keeper_of_the_light_chakra_magic
-jakiro_ice_path
 huskar_berserkers_blood
 hoodwink_acorn_shot
 faceless_void_time_walk
@@ -81,7 +77,6 @@ custom_tidehunter_ravage
 custom_sven_warcry
 custom_sven_gods_strength
 custom_storm_spirit_overload
-custom_spirit_breaker_charge_of_darkness
 custom_spectre_dispersion
 custom_sniper_take_aim
 custom_snapfire_mortimer_kisses
@@ -114,7 +109,6 @@ custom_necrolyte_reapers_scythe
 custom_necrolyte_death_pulse
 custom_naga_siren_mirror_image
 custom_monkey_king_jingu_mastery
-custom_monkey_king_boundless_strike
 custom_mirana_arrow
 custom_mars_spear_of_mars
 custom_lycan_summon_wolves
@@ -123,7 +117,6 @@ custom_lone_druid_spirit_link
 custom_lone_druid_spirit_bear
 custom_lion_finger_of_death
 custom_lina_fiery_soul
-custom_lina_dragon_slave
 custom_life_stealer_rage
 custom_lich_chain_frost
 custom_leshrac_split_earth
@@ -149,7 +142,6 @@ custom_dark_willow_cursed_crown
 custom_crystal_maiden_freezing_field
 custom_clockwerk_battery_assault
 custom_chaos_knight_reality_rift
-custom_chaos_knight_chaos_strike
 custom_bristleback_viscous_nasal_goo
 custom_bristleback_quill_spray
 custom_beastmaster_inner_beast
@@ -165,10 +157,8 @@ custom_abaddon_aphotic_shield
 crystal_maiden_frostbite
 crystal_maiden_brilliance_aura
 clinkz_strafe
-clinkz_searing_arrows
 chen_hand_of_god
 centaur_double_edge
-broodmother_insatiable_hunger
 bristleback_warpath
 bloodseeker_bloodrage
 beastmaster_wild_axes
@@ -176,3 +166,6 @@ batrider_sticky_napalm
 antimage_mana_break
 alchemist_chemical_rage
 abaddon_borrowed_time
+!mars_arena_of_blood
+!death_prophet_spirit_siphon
+custom_viper_poison_attack

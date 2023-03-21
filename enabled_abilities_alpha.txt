@@ -166,6 +166,4 @@ batrider_sticky_napalm
 antimage_mana_break
 alchemist_chemical_rage
 abaddon_borrowed_time
-!mars_arena_of_blood
-!death_prophet_spirit_siphon
-custom_viper_poison_attack
+

@@ -22,7 +22,7 @@ techies_suicide
 shredder_reactive_armor
 sandking_burrowstrike
 rubick_fade_bolt
-razor_static_link
+custom_razor_static_link
 razor_plasma_field
 pudge_rot
 primal_beast_uproar
@@ -166,5 +166,13 @@ batrider_sticky_napalm
 antimage_mana_break
 alchemist_chemical_rage
 abaddon_borrowed_time
+mars_arena_of_blood
+death_prophet_spirit_siphon
+omniknight_guardian_angel
+treant_living_armor
+treant_overgrowth
+beastmaster_primal_roar
+dazzle_shadow_wave
+muerta_pierce_the_veil
 marci_companion_run
 custom_drow_ranger_frost_arrows

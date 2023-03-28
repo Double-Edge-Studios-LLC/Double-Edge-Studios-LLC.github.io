@@ -93,7 +93,6 @@ custom_shredder_chakram
 custom_shadow_shaman_voodoo
 custom_shadow_demon_demonic_purge
 custom_sandking_epicenter
-custom_riki_tricks_of_the_trade
 custom_razor_eye_of_the_storm
 custom_queenofpain_blink
 custom_pugna_life_drain
@@ -176,3 +175,4 @@ dazzle_shadow_wave
 muerta_pierce_the_veil
 marci_companion_run
 custom_drow_ranger_frost_arrows
+void_spirit_resonant_pulse

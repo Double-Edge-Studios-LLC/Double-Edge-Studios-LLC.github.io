@@ -1,6 +1,7 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
+
 zuus_lightning_bolt
 witch_doctor_paralyzing_cask
 wisp_overcharge
@@ -176,3 +177,18 @@ marci_companion_run
 custom_drow_ranger_frost_arrows
 void_spirit_resonant_pulse
 custom_lina_dragon_slave
+custom_viper_poison_attack
+jakiro_ice_path
+custom_chaos_knight_chaos_strike
+broodmother_insatiable_hunger
+custom_winter_wyvern_arctic_burn
+morphling_waveform
+marci_unleash
+juggernaut_omni_slash
+custom_visage_grave_chill
+custom_slardar_amplify_damage
+custom_phantom_assassin_coup_de_grace
+custom_lycan_feral_impulse
+custom_abyssal_underlord_atrophy_aura
+custom_riki_tricks_of_the_trade
+slark_shadow_dance

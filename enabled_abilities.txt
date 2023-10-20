@@ -60,7 +60,7 @@ dawnbreaker_fire_wreath
 dark_seer_vacuum
 custom_zuus_static_field
 custom_zuus_arc_lightning
-custom_witch_doctor_death_ward
+!custom_witch_doctor_death_ward
 custom_winter_wyvern_cold_embrace
 custom_windrunner_windrun
 custom_windrunner_focusfire

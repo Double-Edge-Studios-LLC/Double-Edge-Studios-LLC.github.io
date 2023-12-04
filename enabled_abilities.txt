@@ -60,7 +60,6 @@ dawnbreaker_fire_wreath
 dark_seer_vacuum
 custom_zuus_static_field
 custom_zuus_arc_lightning
-!custom_witch_doctor_death_ward
 custom_winter_wyvern_cold_embrace
 custom_windrunner_windrun
 custom_windrunner_focusfire
@@ -131,7 +130,6 @@ custom_faceless_void_chronosphere
 custom_ember_spirit_flame_guard
 custom_elder_titan_ancestral_spirit
 custom_earthshaker_fissure
-custom_earthshaker_enchant_totem
 custom_drow_ranger_wave_of_silence
 custom_drow_ranger_multishot
 custom_dragon_knight_dragon_blood
@@ -157,7 +155,6 @@ crystal_maiden_frostbite
 crystal_maiden_brilliance_aura
 clinkz_burning_barrage
 chen_hand_of_god
-centaur_double_edge
 bristleback_warpath
 bloodseeker_bloodrage
 beastmaster_wild_axes
@@ -173,14 +170,12 @@ beastmaster_primal_roar
 dazzle_shadow_wave
 muerta_pierce_the_veil
 marci_companion_run
-custom_drow_ranger_frost_arrows
 void_spirit_resonant_pulse
 custom_lina_dragon_slave
 custom_viper_poison_attack
 jakiro_ice_path
 custom_chaos_knight_chaos_strike
 broodmother_insatiable_hunger
-custom_winter_wyvern_arctic_burn
 morphling_waveform
 marci_unleash
 juggernaut_omni_slash
@@ -191,3 +186,5 @@ custom_lycan_feral_impulse
 custom_abyssal_underlord_atrophy_aura
 custom_riki_tricks_of_the_trade
 slark_shadow_dance
+arc_warden_magnetic_field
+enchantress_impetus

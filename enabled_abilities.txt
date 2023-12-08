@@ -187,4 +187,4 @@ custom_abyssal_underlord_atrophy_aura
 custom_riki_tricks_of_the_trade
 slark_shadow_dance
 arc_warden_magnetic_field
-enchantress_impetus
+custom_enchantress_impetus

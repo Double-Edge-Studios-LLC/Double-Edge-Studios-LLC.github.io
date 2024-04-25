@@ -188,3 +188,7 @@ custom_riki_tricks_of_the_trade
 slark_shadow_dance
 arc_warden_magnetic_field
 custom_enchantress_impetus
+custom_magnataur_shockwave
+custom_monkey_king_boundless_strike
+vengefulspirit_command_aura
+custom_chaos_knight_phantasm

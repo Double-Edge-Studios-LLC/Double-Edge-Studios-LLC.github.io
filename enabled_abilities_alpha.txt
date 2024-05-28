@@ -167,7 +167,7 @@ custom_omniknight_guardian_angel
 treant_living_armor
 treant_overgrowth
 beastmaster_primal_roar
-dazzle_shadow_wave
+custom_dazzle_shadow_wave
 muerta_pierce_the_veil
 marci_companion_run
 void_spirit_resonant_pulse

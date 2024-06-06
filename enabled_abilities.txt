@@ -39,7 +39,7 @@ marci_guardian
 lycan_shapeshift
 luna_lunar_blessing
 life_stealer_feast
-lich_frost_shield
+# lich_frost_shield
 leshrac_pulse_nova
 legion_commander_press_the_attack
 legion_commander_moment_of_courage
@@ -101,7 +101,7 @@ custom_phoenix_sun_ray
 custom_phantom_lancer_spirit_lance
 custom_pangolier_rolling_thunder
 custom_oracle_fortunes_end
-custom_omniknight_repel
+# custom_omniknight_repel
 custom_obsidian_destroyer_equilibrium
 # custom_necrolyte_reapers_scythe
 custom_necrolyte_death_pulse
@@ -132,7 +132,7 @@ custom_elder_titan_ancestral_spirit
 custom_earthshaker_fissure
 custom_drow_ranger_wave_of_silence
 custom_drow_ranger_multishot
-custom_dragon_knight_dragon_blood
+# custom_dragon_knight_dragon_blood
 custom_doom_bringer_doom
 custom_dawnbreaker_luminosity
 custom_dark_willow_cursed_crown
@@ -163,7 +163,7 @@ antimage_mana_break
 alchemist_chemical_rage
 abaddon_borrowed_time
 death_prophet_spirit_siphon
-custom_omniknight_guardian_angel
+# custom_omniknight_guardian_angel
 treant_living_armor
 treant_overgrowth
 beastmaster_primal_roar
@@ -180,12 +180,12 @@ morphling_waveform
 marci_unleash
 juggernaut_omni_slash
 custom_visage_grave_chill
-custom_slardar_amplify_damage
+# custom_slardar_amplify_damage
 custom_phantom_assassin_coup_de_grace
-custom_lycan_feral_impulse
+# custom_lycan_feral_impulse
 custom_abyssal_underlord_atrophy_aura
 custom_riki_tricks_of_the_trade
-slark_shadow_dance
+# slark_shadow_dance
 arc_warden_magnetic_field
 custom_enchantress_impetus
 custom_magnataur_shockwave

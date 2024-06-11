@@ -54,7 +54,7 @@ enigma_black_hole
 ember_spirit_sleight_of_fist
 elder_titan_earth_splitter
 earth_spirit_rolling_boulder
-# dragon_knight_elder_dragon_form
+custom_dragon_knight_elder_dragon_form
 doom_bringer_infernal_blade
 dawnbreaker_fire_wreath
 dark_seer_vacuum

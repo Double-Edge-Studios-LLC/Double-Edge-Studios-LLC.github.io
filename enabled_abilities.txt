@@ -193,3 +193,4 @@ custom_monkey_king_boundless_strike
 vengefulspirit_command_aura
 custom_chaos_knight_phantasm
 custom_spirit_breaker_charge_of_darkness
+centaur_double_edge

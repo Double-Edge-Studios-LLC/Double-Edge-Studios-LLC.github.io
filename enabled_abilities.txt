@@ -37,7 +37,7 @@ nyx_assassin_spiked_carapace
 medusa_stone_gaze
 marci_guardian
 lycan_shapeshift
-luna_lunar_blessing
+custom_luna_lunar_blessing
 life_stealer_feast
 lich_frost_shield
 leshrac_pulse_nova

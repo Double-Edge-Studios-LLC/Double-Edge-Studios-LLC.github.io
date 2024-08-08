@@ -151,7 +151,7 @@ custom_ancient_apparition_ice_blast
 custom_alchemist_acid_spray
 custom_abaddon_curse_of_avernus
 custom_abaddon_aphotic_shield
-crystal_maiden_frostbite
+# crystal_maiden_frostbite
 crystal_maiden_brilliance_aura
 clinkz_burning_barrage
 chen_hand_of_god

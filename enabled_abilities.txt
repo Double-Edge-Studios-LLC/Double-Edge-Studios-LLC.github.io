@@ -147,7 +147,7 @@ custom_bane_fiends_grip
 custom_bane_brain_sap
 custom_axe_culling_blade
 custom_axe_counter_helix
-custom_ancient_apparition_ice_blast
+# custom_ancient_apparition_ice_blast
 custom_alchemist_acid_spray
 custom_abaddon_curse_of_avernus
 custom_abaddon_aphotic_shield

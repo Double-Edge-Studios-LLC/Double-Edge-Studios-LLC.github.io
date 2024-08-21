@@ -12,7 +12,7 @@ ursa_fury_swipes
 undying_flesh_golem
 tusk_tag_team
 troll_warlord_fervor
-troll_warlord_battle_trance
+# troll_warlord_battle_trance
 tiny_grow
 tidehunter_kraken_shell
 tidehunter_anchor_smash

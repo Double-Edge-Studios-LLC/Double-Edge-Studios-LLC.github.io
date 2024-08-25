@@ -34,7 +34,7 @@ oracle_false_promise
 omniknight_purification
 ogre_magi_bloodlust
 nyx_assassin_spiked_carapace
-medusa_stone_gaze
+# medusa_stone_gaze
 marci_guardian
 lycan_shapeshift
 custom_luna_lunar_blessing

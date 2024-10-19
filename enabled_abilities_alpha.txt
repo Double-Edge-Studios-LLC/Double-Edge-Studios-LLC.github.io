@@ -151,7 +151,7 @@ custom_ancient_apparition_ice_blast
 custom_alchemist_acid_spray
 custom_abaddon_curse_of_avernus
 custom_abaddon_aphotic_shield
-crystal_maiden_frostbite
+# crystal_maiden_frostbite
 crystal_maiden_brilliance_aura
 clinkz_burning_barrage
 chen_hand_of_god
@@ -195,7 +195,7 @@ vengefulspirit_command_aura
 custom_chaos_knight_phantasm
 custom_spirit_breaker_charge_of_darkness
 centaur_double_edge
-custom_grimstroke_soul_bind
+# custom_grimstroke_soul_bind
 pangolier_swashbuckle
 vengefulspirit_nether_swap
 abaddon_death_coil

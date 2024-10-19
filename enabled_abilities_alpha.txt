@@ -196,3 +196,6 @@ custom_chaos_knight_phantasm
 custom_spirit_breaker_charge_of_darkness
 centaur_double_edge
 custom_grimstroke_soul_bind
+pangolier_swashbuckle
+vengefulspirit_nether_swap
+abaddon_death_coil

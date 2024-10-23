@@ -51,7 +51,6 @@ hoodwink_acorn_shot
 faceless_void_time_walk
 faceless_void_time_lock
 enigma_black_hole
-ember_spirit_sleight_of_fist
 elder_titan_earth_splitter
 earth_spirit_rolling_boulder
 custom_dragon_knight_elder_dragon_form
@@ -199,3 +198,5 @@ centaur_double_edge
 pangolier_swashbuckle
 vengefulspirit_nether_swap
 abaddon_death_coil
+custom_necrolyte_heartstopper_aura
+custom_ember_spirit_sleight_of_fist

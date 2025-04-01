@@ -197,7 +197,7 @@ custom_abaddon_death_coil
 custom_necrolyte_heartstopper_aura
 custom_ember_spirit_sleight_of_fist
 
-wisp_tether
+# wisp_tether
 custom_grimstroke_soul_bind
 custom_gyrocopter_flak_cannon
 custom_luna_moon_glaive

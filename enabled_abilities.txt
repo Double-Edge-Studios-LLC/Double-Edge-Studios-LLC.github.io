@@ -198,28 +198,28 @@ custom_necrolyte_heartstopper_aura
 custom_ember_spirit_sleight_of_fist
 
 # wisp_tether
-custom_grimstroke_soul_bind
-custom_gyrocopter_flak_cannon
-custom_luna_moon_glaive
-crystal_maiden_frostbite
+# custom_grimstroke_soul_bind
+# custom_gyrocopter_flak_cannon
+# custom_luna_moon_glaive
+# crystal_maiden_frostbite
 # vengefulspirit_command_aura
 
-custom_tusk_snowball
-clinkz_searing_arrows
+# custom_tusk_snowball
+# clinkz_searing_arrows
 # custom_dark_willow_shadow_realm
-custom_drow_ranger_frost_arrows
-custom_earthshaker_enchant_totem
-custom_enchantress_natures_attendants
-custom_magnataur_empower
-mars_arena_of_blood
-custom_medusa_mana_shield
-puck_phase_shift
-custom_rubick_spell_steal
-custom_silencer_global_silence
-custom_skywrath_mage_ancient_seal
-custom_tiny_toss
-custom_tusk_ice_shards
-custom_undying_soul_rip
-custom_winter_wyvern_arctic_burn
-custom_witch_doctor_death_ward
-night_stalker_crippling_fear
+# custom_drow_ranger_frost_arrows
+# custom_earthshaker_enchant_totem
+# custom_enchantress_natures_attendants
+# custom_magnataur_empower
+# mars_arena_of_blood
+# custom_medusa_mana_shield
+# puck_phase_shift
+# custom_rubick_spell_steal
+# custom_silencer_global_silence
+# custom_skywrath_mage_ancient_seal
+# custom_tiny_toss
+# custom_tusk_ice_shards
+# custom_undying_soul_rip
+# custom_winter_wyvern_arctic_burn
+# custom_witch_doctor_death_ward
+# night_stalker_crippling_fear

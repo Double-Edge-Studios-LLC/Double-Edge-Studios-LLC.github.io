@@ -128,10 +128,10 @@ custom_hoodwink_sharpshooter
 custom_faceless_void_chronosphere
 # custom_ember_spirit_flame_guard
 custom_elder_titan_ancestral_spirit
-# custom_earthshaker_fissure
+custom_earthshaker_fissure
 # custom_drow_ranger_wave_of_silence
 # custom_drow_ranger_multishot
-custom_dragon_knight_dragon_blood
+# custom_dragon_knight_dragon_blood
 custom_doom_bringer_doom
 custom_dawnbreaker_luminosity
 # custom_dark_willow_cursed_crown

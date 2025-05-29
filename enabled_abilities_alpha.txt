@@ -1,90 +1,90 @@
 # All lines starting with # will be ignored
 # Abilities starting with ! will be disabled
 # Abilities not found here will be enabled by default in tools and disabled on live
-# zuus_lightning_bolt
-# witch_doctor_paralyzing_cask
-# wisp_overcharge
+zuus_lightning_bolt
+witch_doctor_paralyzing_cask
+wisp_overcharge
 void_spirit_astral_step
 viper_corrosive_skin
-# vengefulspirit_wave_of_terror
-# ursa_overpower
+vengefulspirit_wave_of_terror
+ursa_overpower
 ursa_fury_swipes
 undying_flesh_golem
 tusk_tag_team
-# troll_warlord_fervor
+troll_warlord_fervor
 # troll_warlord_battle_trance
 tiny_grow
 tidehunter_kraken_shell
-# tidehunter_anchor_smash
+tidehunter_anchor_smash
 terrorblade_sunder
-# templar_assassin_refraction
-# techies_suicide
-# shredder_reactive_armor
+templar_assassin_refraction
+techies_suicide
+shredder_reactive_armor
 sandking_burrowstrike
-# rubick_fade_bolt
-# custom_razor_static_link
-# razor_plasma_field
-# pudge_rot
-# primal_beast_uproar
-# primal_beast_trample
+rubick_fade_bolt
+custom_razor_static_link
+razor_plasma_field
+pudge_rot
+primal_beast_uproar
+primal_beast_trample
 primal_beast_pulverize
-# phoenix_icarus_dive
+phoenix_icarus_dive
 phantom_assassin_phantom_strike
 oracle_false_promise
-# omniknight_purification
-# ogre_magi_bloodlust
+omniknight_purification
+ogre_magi_bloodlust
 nyx_assassin_spiked_carapace
 medusa_stone_gaze
 marci_guardian
 lycan_shapeshift
-# custom_luna_lunar_blessing
+custom_luna_lunar_blessing
 life_stealer_feast
-# lich_frost_shield
+lich_frost_shield
 leshrac_pulse_nova
 legion_commander_press_the_attack
-# legion_commander_moment_of_courage
-# kunkka_torrent
+legion_commander_moment_of_courage
+kunkka_torrent
 kunkka_ghostship
 keeper_of_the_light_chakra_magic
 huskar_berserkers_blood
-# hoodwink_acorn_shot
-# faceless_void_time_walk
+hoodwink_acorn_shot
+faceless_void_time_walk
 faceless_void_time_lock
 enigma_black_hole
 elder_titan_earth_splitter
 earth_spirit_rolling_boulder
 custom_dragon_knight_elder_dragon_form
 doom_bringer_infernal_blade
-# dawnbreaker_fire_wreath
-# dark_seer_vacuum
+dawnbreaker_fire_wreath
+dark_seer_vacuum
 custom_zuus_static_field
-# custom_zuus_arc_lightning
-# custom_winter_wyvern_cold_embrace
-# custom_windrunner_windrun
+custom_zuus_arc_lightning
+custom_winter_wyvern_cold_embrace
+custom_windrunner_windrun
 custom_windrunner_focusfire
 custom_warlock_chaotic_offering
 custom_visage_summon_familiars
-# custom_venomancer_plague_ward
-# custom_vengefulspirit_magic_missile
-# custom_ursa_earthshock
-# custom_undying_decay
+custom_venomancer_plague_ward
+custom_vengefulspirit_magic_missile
+custom_ursa_earthshock
+custom_undying_decay
 custom_tusk_walrus_punch
-# custom_treant_leech_seed
-# custom_tinker_laser
+custom_treant_leech_seed
+custom_tinker_laser
 custom_tidehunter_ravage
-# custom_sven_warcry
+custom_sven_warcry
 custom_sven_gods_strength
 # custom_storm_spirit_overload
 custom_spectre_dispersion
 custom_sniper_take_aim
 custom_snapfire_mortimer_kisses
-# custom_snapfire_lil_shredder
-# custom_snapfire_firesnap_cookie
+custom_snapfire_lil_shredder
+custom_snapfire_firesnap_cookie
 custom_slark_essence_shift
-# custom_slark_dark_pact
+custom_slark_dark_pact
 custom_slardar_bash_of_the_deep
 custom_skywrath_mage_mystic_flare
-# custom_skywrath_mage_arcane_bolt
+custom_skywrath_mage_arcane_bolt
 custom_skeleton_king_vampiric_aura
 custom_silencer_glaives_of_wisdom
 custom_shredder_chakram
@@ -96,105 +96,105 @@ custom_queenofpain_blink
 custom_pugna_life_drain
 custom_pudge_meat_hook
 custom_pudge_flesh_heap
-# custom_phoenix_sun_ray
-# custom_phantom_lancer_spirit_lance
+custom_phoenix_sun_ray
+custom_phantom_lancer_spirit_lance
 custom_pangolier_rolling_thunder
 custom_oracle_fortunes_end
-# custom_omniknight_repel
-# custom_obsidian_destroyer_equilibrium
+custom_omniknight_repel
+custom_obsidian_destroyer_equilibrium
 custom_necrolyte_reapers_scythe
-# custom_necrolyte_death_pulse
-# custom_naga_siren_mirror_image
-# custom_monkey_king_jingu_mastery
-# custom_mirana_arrow
+custom_necrolyte_death_pulse
+custom_naga_siren_mirror_image
+custom_monkey_king_jingu_mastery
+custom_mirana_arrow
 custom_mars_spear_of_mars
-# custom_lycan_summon_wolves
-# custom_luna_lucent_beam
+custom_lycan_summon_wolves
+custom_luna_lucent_beam
 custom_lone_druid_spirit_link
 custom_lone_druid_spirit_bear
 custom_lion_finger_of_death
-# custom_lina_fiery_soul
+custom_lina_fiery_soul
 custom_life_stealer_rage
 custom_lich_chain_frost
-# custom_leshrac_split_earth
+custom_leshrac_split_earth
 custom_legion_commander_duel
 custom_juggernaut_blade_fury
 custom_huskar_life_break
-# custom_huskar_inner_fire
-# custom_huskar_burning_spear
+custom_huskar_inner_fire
+custom_huskar_burning_spear
 custom_hoodwink_sharpshooter
-# custom_grimstroke_ink_swell
-# custom_furion_force_of_nature
+custom_grimstroke_ink_swell
+custom_furion_force_of_nature
 custom_faceless_void_chronosphere
-# custom_ember_spirit_flame_guard
+custom_ember_spirit_flame_guard
 custom_elder_titan_ancestral_spirit
 custom_earthshaker_fissure
-# custom_drow_ranger_wave_of_silence
-# custom_drow_ranger_multishot
-# custom_dragon_knight_dragon_blood
+custom_drow_ranger_wave_of_silence
+custom_drow_ranger_multishot
+custom_dragon_knight_dragon_blood
 custom_doom_bringer_doom
 custom_dawnbreaker_luminosity
-# custom_dark_willow_cursed_crown
+custom_dark_willow_cursed_crown
 custom_crystal_maiden_freezing_field
-# custom_clockwerk_battery_assault
+custom_clockwerk_battery_assault
 custom_chaos_knight_reality_rift
-# custom_bristleback_viscous_nasal_goo
-# custom_bristleback_quill_spray
+custom_bristleback_viscous_nasal_goo
+custom_bristleback_quill_spray
 custom_beastmaster_inner_beast
-# custom_beastmaster_call_of_the_wild
+custom_beastmaster_call_of_the_wild
 custom_bane_fiends_grip
-# custom_bane_brain_sap
+custom_bane_brain_sap
 custom_axe_culling_blade
 custom_axe_counter_helix
 custom_ancient_apparition_ice_blast
-# custom_alchemist_acid_spray
+custom_alchemist_acid_spray
 custom_abaddon_curse_of_avernus
-# custom_abaddon_aphotic_shield
-# crystal_maiden_brilliance_aura
+custom_abaddon_aphotic_shield
+crystal_maiden_brilliance_aura
 clinkz_burning_barrage
 chen_hand_of_god
 bristleback_warpath
 bloodseeker_bloodrage
-# beastmaster_wild_axes
-# batrider_sticky_napalm
-# antimage_mana_break
+beastmaster_wild_axes
+batrider_sticky_napalm
+antimage_mana_break
 alchemist_chemical_rage
 abaddon_borrowed_time
-# death_prophet_spirit_siphon
+death_prophet_spirit_siphon
 custom_omniknight_guardian_angel
-# treant_living_armor
+treant_living_armor
 treant_overgrowth
 beastmaster_primal_roar
-# custom_dazzle_shadow_wave
+custom_dazzle_shadow_wave
 muerta_pierce_the_veil
-# marci_companion_run
-# void_spirit_resonant_pulse
-# custom_lina_dragon_slave
-# custom_viper_poison_attack
+marci_companion_run
+void_spirit_resonant_pulse
+custom_lina_dragon_slave
+custom_viper_poison_attack
 jakiro_ice_path
-# custom_chaos_knight_chaos_strike
-# broodmother_insatiable_hunger
-# morphling_waveform
+custom_chaos_knight_chaos_strike
+broodmother_insatiable_hunger
+morphling_waveform
 marci_unleash
 juggernaut_omni_slash
-# custom_visage_grave_chill
+custom_visage_grave_chill
 custom_slardar_amplify_damage
 custom_phantom_assassin_coup_de_grace
-# custom_lycan_feral_impulse
-# custom_abyssal_underlord_atrophy_aura
-# custom_riki_tricks_of_the_trade
+custom_lycan_feral_impulse
+custom_abyssal_underlord_atrophy_aura
+custom_riki_tricks_of_the_trade
 slark_shadow_dance
-# arc_warden_magnetic_field
-# custom_enchantress_impetus
-# custom_magnataur_shockwave
+arc_warden_magnetic_field
+custom_enchantress_impetus
+custom_magnataur_shockwave
 custom_monkey_king_boundless_strike
 custom_chaos_knight_phantasm
 custom_spirit_breaker_charge_of_darkness
 centaur_double_edge
-# pangolier_swashbuckle
+pangolier_swashbuckle
 vengefulspirit_nether_swap
-# custom_abaddon_death_coil
-# custom_necrolyte_heartstopper_aura
+custom_abaddon_death_coil
+custom_necrolyte_heartstopper_aura
 custom_ember_spirit_sleight_of_fist
 
 # wisp_tether

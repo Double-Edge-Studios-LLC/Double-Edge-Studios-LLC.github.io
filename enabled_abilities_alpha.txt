@@ -26,7 +26,6 @@ custom_razor_static_link
 razor_plasma_field
 pudge_rot
 primal_beast_uproar
-primal_beast_trample
 primal_beast_pulverize
 phoenix_icarus_dive
 phantom_assassin_phantom_strike
@@ -105,7 +104,6 @@ custom_obsidian_destroyer_equilibrium
 custom_necrolyte_reapers_scythe
 custom_necrolyte_death_pulse
 custom_naga_siren_mirror_image
-custom_monkey_king_jingu_mastery
 custom_mirana_arrow
 custom_mars_spear_of_mars
 custom_lycan_summon_wolves
@@ -127,7 +125,6 @@ custom_grimstroke_ink_swell
 custom_furion_force_of_nature
 custom_faceless_void_chronosphere
 custom_ember_spirit_flame_guard
-custom_elder_titan_ancestral_spirit
 custom_earthshaker_fissure
 custom_drow_ranger_wave_of_silence
 custom_drow_ranger_multishot
@@ -140,7 +137,6 @@ custom_clockwerk_battery_assault
 custom_chaos_knight_reality_rift
 custom_bristleback_viscous_nasal_goo
 custom_bristleback_quill_spray
-custom_beastmaster_inner_beast
 custom_beastmaster_call_of_the_wild
 custom_bane_fiends_grip
 custom_bane_brain_sap
@@ -196,6 +192,14 @@ vengefulspirit_nether_swap
 custom_abaddon_death_coil
 custom_necrolyte_heartstopper_aura
 custom_ember_spirit_sleight_of_fist
+
+custom_elder_titan_ancestral_spirit
+custom_beastmaster_inner_beast
+custom_monkey_king_jingu_mastery
+primal_beast_trample
+
+custom_shadow_shaman_mass_serpent_ward
+custom_spectre_haunt
 
 # wisp_tether
 # custom_grimstroke_soul_bind

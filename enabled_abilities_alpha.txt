@@ -225,5 +225,5 @@ custom_spectre_haunt
 # custom_tusk_ice_shards
 # custom_undying_soul_rip
 # custom_winter_wyvern_arctic_burn
-# custom_witch_doctor_death_ward
+custom_witch_doctor_death_ward
 # night_stalker_crippling_fear

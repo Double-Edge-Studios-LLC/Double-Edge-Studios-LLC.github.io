@@ -158,7 +158,7 @@ alchemist_chemical_rage
 abaddon_borrowed_time
 death_prophet_spirit_siphon
 custom_omniknight_guardian_angel
-treant_living_armor
+# treant_living_armor
 treant_overgrowth
 beastmaster_primal_roar
 custom_dazzle_shadow_wave

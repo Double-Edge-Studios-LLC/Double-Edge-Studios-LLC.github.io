@@ -117,7 +117,7 @@ custom_lich_chain_frost
 custom_leshrac_split_earth
 custom_legion_commander_duel
 custom_juggernaut_blade_fury
-custom_huskar_life_break
+# custom_huskar_life_break
 custom_huskar_inner_fire
 custom_huskar_burning_spear
 custom_hoodwink_sharpshooter

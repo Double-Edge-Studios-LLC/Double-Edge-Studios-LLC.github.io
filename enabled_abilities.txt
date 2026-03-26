@@ -15,7 +15,7 @@ troll_warlord_fervor
 # troll_warlord_battle_trance
 tiny_grow
 tidehunter_kraken_shell
-tidehunter_anchor_smash
+# tidehunter_anchor_smash
 terrorblade_sunder
 templar_assassin_refraction
 techies_suicide

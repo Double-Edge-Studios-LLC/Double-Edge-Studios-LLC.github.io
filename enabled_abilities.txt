@@ -201,25 +201,25 @@ custom_witch_doctor_death_ward
 custom_storm_spirit_overload
 
 # wisp_tether
-custom_grimstroke_soul_bind
+# custom_grimstroke_soul_bind
 custom_gyrocopter_flak_cannon
 custom_luna_moon_glaive
-crystal_maiden_frostbite
+# crystal_maiden_frostbite
 vengefulspirit_command_aura
 
-custom_tusk_snowball
-custom_earthshaker_enchant_totem
+# custom_tusk_snowball
+# custom_earthshaker_enchant_totem
 custom_enchantress_natures_attendants
 custom_magnataur_empower
-mars_arena_of_blood
+# mars_arena_of_blood
 # custom_medusa_mana_shield
 puck_phase_shift
 # custom_silencer_global_silence
-custom_skywrath_mage_ancient_seal
+# custom_skywrath_mage_ancient_seal
 # custom_tiny_toss
 # custom_tusk_ice_shards
 # custom_undying_soul_rip
-custom_winter_wyvern_arctic_burn
-night_stalker_crippling_fear
+# custom_winter_wyvern_arctic_burn
+# night_stalker_crippling_fear
 
 custom_keeper_of_the_light_illuminate

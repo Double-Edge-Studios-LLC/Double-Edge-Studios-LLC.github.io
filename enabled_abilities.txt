@@ -209,7 +209,7 @@ vengefulspirit_command_aura
 
 # custom_tusk_snowball
 # custom_earthshaker_enchant_totem
-custom_enchantress_natures_attendants
+# custom_enchantress_natures_attendants
 custom_magnataur_empower
 # mars_arena_of_blood
 # custom_medusa_mana_shield

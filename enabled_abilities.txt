@@ -203,7 +203,7 @@ custom_storm_spirit_overload
 # wisp_tether
 # custom_grimstroke_soul_bind
 custom_gyrocopter_flak_cannon
-custom_luna_moon_glaive
+# custom_luna_moon_glaive
 # crystal_maiden_frostbite
 vengefulspirit_command_aura
 

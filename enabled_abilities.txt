@@ -194,7 +194,7 @@ custom_ember_spirit_sleight_of_fist
 custom_elder_titan_ancestral_spirit
 custom_beastmaster_inner_beast
 custom_monkey_king_jingu_mastery
-primal_beast_trample
+# primal_beast_trample
 custom_spectre_haunt
 custom_witch_doctor_death_ward
 
@@ -208,7 +208,7 @@ custom_gyrocopter_flak_cannon
 vengefulspirit_command_aura
 
 # custom_tusk_snowball
-# custom_earthshaker_enchant_totem
+custom_earthshaker_enchant_totem
 # custom_enchantress_natures_attendants
 custom_magnataur_empower
 # mars_arena_of_blood

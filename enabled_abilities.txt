@@ -197,6 +197,10 @@ custom_monkey_king_jingu_mastery
 # primal_beast_trample
 custom_spectre_haunt
 custom_witch_doctor_death_ward
+custom_magnataur_skewer
+custom_magnataur_reverse_polarity
+custom_viper_viper_strike
+custom_keeper_of_the_light_illuminate
 custom_shadow_shaman_mass_serpent_ward
 custom_storm_spirit_overload
 
@@ -221,5 +225,3 @@ custom_magnataur_empower
 # custom_undying_soul_rip
 # custom_winter_wyvern_arctic_burn
 # night_stalker_crippling_fear
-
-custom_keeper_of_the_light_illuminate

@@ -197,7 +197,7 @@ custom_monkey_king_jingu_mastery
 # primal_beast_trample
 custom_spectre_haunt
 custom_witch_doctor_death_ward
-
+custom_shadow_shaman_mass_serpent_ward
 custom_storm_spirit_overload
 
 # wisp_tether

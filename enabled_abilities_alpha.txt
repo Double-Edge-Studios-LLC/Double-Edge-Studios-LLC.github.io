@@ -197,9 +197,9 @@ custom_monkey_king_jingu_mastery
 # primal_beast_trample
 custom_spectre_haunt
 custom_witch_doctor_death_ward
-magnataur_skewer
-magnataur_reverse_polarity
-viper_viper_strike
+custom_magnataur_skewer
+custom_magnataur_reverse_polarity
+custom_viper_viper_strike
 custom_keeper_of_the_light_illuminate
 
 custom_storm_spirit_overload
